@@ -1,4 +1,9 @@
-# FOSSASAT-2
+# FOSSASAT-2 -  sketch modified by N6RFM
+
+The sketches for Fossast-1b and 2 appear to have been deprecated in favor of Qt based interface.  https://github.com/FOSSASystems/FOSSA-GroundStationControlPanel
+
+Forn those who desire to keep the terminal based approach, this repo contains an updated verion for Fossasat-2 which includes some newer commands to interface with the satellite
+
 [![Build Status](https://Github.com/FOSSASystems/FOSSASAT-2/workflows/CI/badge.svg)](https://github.com/FOSSASystems/FOSSASAT-2/actions)
 
 [Doxygen Documentation](https://fossasystems.github.io/FOSSASAT-2)
